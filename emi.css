@@ -1,0 +1,48 @@
+h1 {
+	color: red;
+}
+.com {
+	text-decoration: line-through;
+}
+li {
+	list-style: none;
+}
+input {
+	color: blue;
+	display:inline-block;	
+}
+span {
+	width: 0;
+	color:rgba(	0,0,0,0);
+}
+li:hover span {
+	color: white;
+	background-color: red;
+	text-align: center;
+	display: inline-block;
+	width: 	20px;
+	height:20px;
+} 
+.hide{
+ display: inline;
+ color: blue;
+padding:0, 50px;
+width: 30px;
+height: 30px;
+}
+fa-plus{
+	width:0;
+}
+body{
+	background: purple;
+	background-image: url("https://vemco.com/wp-content/uploads/2012/09/image-banner2.jpg");
+	background-size: none;
+	background-repeat: no-repeat;
+}
+.container{
+	width:50px;
+	display:block; 
+}
+h1 {
+	text-align: center;	
+}
